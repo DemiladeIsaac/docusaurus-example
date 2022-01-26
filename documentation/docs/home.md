@@ -2,6 +2,7 @@
 sidebar_label: "Home"
 sidebar_position: 1
 sidebar_class_name: item1
+custom_edit_url: null
 slug: /
 ---
 
